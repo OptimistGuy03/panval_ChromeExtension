@@ -10,6 +10,6 @@ Panval_Chrome_Extension is a browser extension designed to focus on the popular 
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/panval_ChromeExtension.git
+   git clone https://github.com/OptimistGuy03/panval_ChromeExtension
 
-![Capture](https://github.com/user-attachments/assets/f81a5e0d-c1f0-4df4-a93f-1ca607e43909)
+
